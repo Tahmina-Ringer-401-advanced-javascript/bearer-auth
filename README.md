@@ -8,6 +8,8 @@ by Tahmina Ringer
 - [Heroku-dashboard](https://dashboard.heroku.com/apps/bearer-auth-tahmina)
 - [Heroku-deployed](https://bearer-auth-tahmina.herokuapp.com/)
 
+- Resource[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+
 Basic express server using modularization, middleware and tests.
 `npm i` express, MongoDB, Mongoose, base-64, bcrypt, cors, dotenv, jsonwebtoken, mongoose, morgan and jest.
 
